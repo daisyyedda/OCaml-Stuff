@@ -1,1 +1,1 @@
-let _ = print_endline "Hello World!"
+let _ = print_endline "Hello World!" (* double semicolons are not necessary as we are not in utop *)
